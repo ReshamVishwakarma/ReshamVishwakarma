@@ -43,6 +43,4 @@ I enjoy designing APIs, solving systems problems, and building software that is 
 
 ## 📫 Connect with Me
 
-- LinkedIn: *(add your link)*
-- Portfolio: *(add your portfolio)*
-- Email: *(add your email)*
+- LinkedIn: https://www.linkedin.com/in/reshamvishwakarma/
