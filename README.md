@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Resham Vishwakarma 👋
 
-<!--
-**ReshamVishwakarma/ReshamVishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Engineer | Backend Engineering
 
-Here are some ideas to get you started:
+🏆 Google WE Scholar '24  
+🏆 Siemens Scholar '24  
+🥈 Smart India Hackathon 2025 First Runner-Up
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I build scalable backend systems, distributed applications, and production-ready software using modern engineering practices.
+
+I enjoy designing APIs, solving systems problems, and building software that is reliable, maintainable, and scalable.
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- C++
+- FastAPI
+- Frappe Framework
+- PostgreSQL
+- MariaDB
+- Redis
+- Celery
+- Docker
+- Git
+- Linux
+
+---
+
+## ⭐ Featured Projects
+
+- 📚 Enterprise Learning Management System
+- ⚙️ Distributed Job Scheduler
+- 🔍 Procedural Investigation Environment
+- 🧾 LedgerLens
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: *(add your link)*
+- Portfolio: *(add your portfolio)*
+- Email: *(add your email)*
