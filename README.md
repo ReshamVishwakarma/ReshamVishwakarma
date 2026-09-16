@@ -2,7 +2,7 @@
 
 ### Software Development Engineer | Backend Engineering
 
-🏆 Software Developer Intern at C&S Electric
+🏆 Software Developer Intern at C&S Electric   
 🏆 Google WE Scholar '24  
 🏆 Siemens Scholar '24  
 🥈 Smart India Hackathon 2025 First Runner-Up
